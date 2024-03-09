@@ -1,0 +1,14 @@
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\obj\Debug\net8.0\demo-08b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\obj\Debug\net8.0\demo-08b.AssemblyInfoInputs.cache
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\obj\Debug\net8.0\demo-08b.AssemblyInfo.cs
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\obj\Debug\net8.0\demo-08b.csproj.CoreCompileInputs.cache
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\bin\Debug\net8.0\demo-08b.exe
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\bin\Debug\net8.0\demo-08b.deps.json
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\bin\Debug\net8.0\demo-08b.runtimeconfig.json
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\bin\Debug\net8.0\demo-08b.dll
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\bin\Debug\net8.0\demo-08b.pdb
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\obj\Debug\net8.0\demo-08b.dll
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\obj\Debug\net8.0\refint\demo-08b.dll
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\obj\Debug\net8.0\demo-08b.pdb
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\obj\Debug\net8.0\demo-08b.genruntimeconfig.cache
+C:\Users\bbogo\OneDrive\Desktop\CSE 212\demo-08b\obj\Debug\net8.0\ref\demo-08b.dll
